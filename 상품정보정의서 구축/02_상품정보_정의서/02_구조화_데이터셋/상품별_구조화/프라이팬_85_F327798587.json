@@ -1,0 +1,19 @@
+{
+ "code": "F327798587",
+ "group": "프라이팬",
+ "rank": 85,
+ "name": "이연복 클래딘 베네치아 IH 후라이팬 30cm / 좋은후라이팬 안전한후라이팬 인덕션팬 예쁜프라이팬 고급후라",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1374,
+  "output_tokens": 25,
+  "thinking_tokens": 339
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 12.9
+}

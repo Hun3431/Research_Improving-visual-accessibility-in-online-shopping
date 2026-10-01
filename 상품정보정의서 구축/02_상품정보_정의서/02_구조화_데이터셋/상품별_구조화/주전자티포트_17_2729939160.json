@@ -1,0 +1,27 @@
+{
+ "code": "2729939160",
+ "group": "주전자/티포트",
+ "rank": 17,
+ "name": "키친아트 무선 전기포트 모음 전기주전자 커피 티포트 고급스텐",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [
+  {
+   "항목": "제조사",
+   "값": "키친아트 Kitchen-Art CO.LTD.",
+   "근거이미지": 2,
+   "근거": "키친아트 Kitchen-Art CO.LTD.",
+   "_검증": "ok"
+  }
+ ],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1350,
+  "output_tokens": 91,
+  "thinking_tokens": 1260
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 10.9
+}

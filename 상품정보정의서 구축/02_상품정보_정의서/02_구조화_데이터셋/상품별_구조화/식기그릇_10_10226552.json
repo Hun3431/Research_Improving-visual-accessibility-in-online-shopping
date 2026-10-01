@@ -1,0 +1,34 @@
+{
+ "code": "10226552",
+ "group": "식기/그릇",
+ "rank": 10,
+ "name": "예작마루 그릇세트 14p 밥그릇 그릇 식기 본차이나 홈세트",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [
+  {
+   "항목": "전자레인지사용여부",
+   "값": "사용가능",
+   "근거이미지": 1,
+   "근거": "*전자레인지 사용가능",
+   "_검증": "ok"
+  },
+  {
+   "항목": "소재",
+   "값": "PREMIUM BONE CHINA",
+   "근거이미지": 1,
+   "근거": "PREMIUM BONE CHINA",
+   "_검증": "ok"
+  }
+ ],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 133,
+  "thinking_tokens": 392
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 10.3
+}

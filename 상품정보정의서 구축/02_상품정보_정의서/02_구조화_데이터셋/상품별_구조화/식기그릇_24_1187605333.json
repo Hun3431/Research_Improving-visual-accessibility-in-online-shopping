@@ -1,0 +1,19 @@
+{
+ "code": "1187605333",
+ "group": "식기/그릇",
+ "rank": 24,
+ "name": "단고재 달개비 원앙세트 (공기2, 뚜껑2, 대접2) / 밥그릇, 국그릇, 주발 / 결혼선물, 집들이선물",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1318,
+  "output_tokens": 25,
+  "thinking_tokens": 52
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 15.6
+}

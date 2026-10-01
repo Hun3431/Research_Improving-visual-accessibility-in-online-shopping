@@ -1,0 +1,19 @@
+{
+ "code": "742583669",
+ "group": "칼",
+ "rank": 18,
+ "name": "국산용칼/용칼/국산/사시미/정육칼/주방식도/주방칼/우도/한식칼/야채칼/회칼/대바/업소용칼/식칼",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1321,
+  "output_tokens": 25,
+  "thinking_tokens": 32
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 17.5
+}

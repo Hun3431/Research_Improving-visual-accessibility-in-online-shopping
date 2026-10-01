@@ -1,0 +1,19 @@
+{
+ "code": "3288973419",
+ "group": "식기/그릇",
+ "rank": 17,
+ "name": "[더가온] 국내산 도자기 찬기/공기/홈세트 테이블웨어모음",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1299,
+  "output_tokens": 25,
+  "thinking_tokens": 89
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 4.4
+}

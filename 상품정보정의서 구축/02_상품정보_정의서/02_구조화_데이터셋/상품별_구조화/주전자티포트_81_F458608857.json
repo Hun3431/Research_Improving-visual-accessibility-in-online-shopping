@@ -1,0 +1,19 @@
+{
+ "code": "F458608857",
+ "group": "주전자/티포트",
+ "rank": 81,
+ "name": "일체형 뉴문 포트 차 내열강화유리 거름망 800ml / 티포트 티팟 차포트 차우림기 유리주전자 내열유리다관",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1382,
+  "output_tokens": 25,
+  "thinking_tokens": 256
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 26.7
+}

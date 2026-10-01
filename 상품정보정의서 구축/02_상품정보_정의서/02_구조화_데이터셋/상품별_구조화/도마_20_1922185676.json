@@ -1,0 +1,19 @@
+{
+ "code": "1922185676",
+ "group": "도마",
+ "rank": 20,
+ "name": "네오플램 항균 주방 이유식 도마 나무 플레이트 도마",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1376,
+  "output_tokens": 25,
+  "thinking_tokens": 323
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 18.8
+}

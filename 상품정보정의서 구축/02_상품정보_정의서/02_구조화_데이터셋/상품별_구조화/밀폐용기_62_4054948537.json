@@ -1,0 +1,27 @@
+{
+ "code": "4054948537",
+ "group": "밀폐용기",
+ "rank": 62,
+ "name": "곡물 400 용기 6매1세트/사료통/쌀보관/잡곡/보관통/시리얼/밀폐/쌀통/보관/사료/씨리얼통/냉장고/곡물통",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [
+  {
+   "항목": "사이즈",
+   "값": "지름 6.5CM, 높이 14.5CM",
+   "근거이미지": 1,
+   "근거": "지름6.5CM 높이 14.5CM",
+   "_검증": "ok"
+  }
+ ],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1345,
+  "output_tokens": 100,
+  "thinking_tokens": 668
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 37.7
+}

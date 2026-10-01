@@ -1,0 +1,19 @@
+{
+ "code": "2716023372",
+ "group": "주전자/티포트",
+ "rank": 33,
+ "name": "라이트킹 대용량 표일배 차호 티포트 1000ml",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1294,
+  "output_tokens": 25,
+  "thinking_tokens": 53
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.3
+}

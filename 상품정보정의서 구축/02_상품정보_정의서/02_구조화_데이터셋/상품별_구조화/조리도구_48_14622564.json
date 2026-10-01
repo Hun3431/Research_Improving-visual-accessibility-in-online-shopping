@@ -1,0 +1,19 @@
+{
+ "code": "14622564",
+ "group": "조리도구",
+ "rank": 48,
+ "name": "주방 씽크대 행주걸이/주방선반/국자걸이/주방악세사리/행거레일/주방용품/컵걸이",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1313,
+  "output_tokens": 25,
+  "thinking_tokens": 34
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 3.5
+}

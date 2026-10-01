@@ -1,0 +1,19 @@
+{
+ "code": "B319544709",
+ "group": "식기/그릇",
+ "rank": 70,
+ "name": "원목 나무그릇 정사각 3P세트/원목그릇/다과접시/안주",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1299,
+  "output_tokens": 25,
+  "thinking_tokens": 51
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.8
+}

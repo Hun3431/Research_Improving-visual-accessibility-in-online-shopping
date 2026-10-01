@@ -1,0 +1,19 @@
+{
+ "code": "38913949",
+ "group": "주전자/티포트",
+ "rank": 38,
+ "name": "코카코 스텐 주전자 모음전",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1284,
+  "output_tokens": 25,
+  "thinking_tokens": 103
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.8
+}

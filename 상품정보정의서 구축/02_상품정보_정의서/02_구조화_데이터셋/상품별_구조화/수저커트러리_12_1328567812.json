@@ -1,0 +1,19 @@
+{
+ "code": "1328567812",
+ "group": "수저/커트러리",
+ "rank": 12,
+ "name": "유아동 수저 케이스 젓가락 스푼 포크 어린이 세트",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1293,
+  "output_tokens": 25,
+  "thinking_tokens": 66
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.4
+}

@@ -1,0 +1,19 @@
+{
+ "code": "B404241507",
+ "group": "수저/커트러리",
+ "rank": 92,
+ "name": "5가지 색상 칼라 디저트스푼/티스푼 세트",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1292,
+  "output_tokens": 25,
+  "thinking_tokens": 76
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 41.6
+}

@@ -1,0 +1,19 @@
+{
+ "code": "1714229639",
+ "group": "조리도구",
+ "rank": 28,
+ "name": "일본 조리도구 국자/뒤집개/뒤지개/사각터너/삼각터너",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1297,
+  "output_tokens": 25,
+  "thinking_tokens": 154
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.5
+}

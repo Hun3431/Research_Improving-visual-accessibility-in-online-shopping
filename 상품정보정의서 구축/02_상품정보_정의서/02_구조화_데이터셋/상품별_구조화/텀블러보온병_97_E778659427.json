@@ -1,0 +1,19 @@
+{
+ "code": "E778659427",
+ "group": "텀블러/보온병",
+ "rank": 97,
+ "name": "스탠리 에어로라이트 진공 텀블러 크림 591ml",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1296,
+  "output_tokens": 25,
+  "thinking_tokens": 49
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 1.5
+}

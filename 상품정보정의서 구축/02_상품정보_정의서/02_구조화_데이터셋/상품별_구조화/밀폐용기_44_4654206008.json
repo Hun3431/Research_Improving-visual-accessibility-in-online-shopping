@@ -1,0 +1,19 @@
+{
+ "code": "4654206008",
+ "group": "밀폐용기",
+ "rank": 44,
+ "name": "백밀폐 5호 (7.2L)/밀폐/용기/주방/용품/김치통/반찬통/김치/저장/반찬/냉장고/가정용/냄새/냉장/보관/수납",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1332,
+  "output_tokens": 25,
+  "thinking_tokens": 41
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 2.7
+}

@@ -1,0 +1,19 @@
+{
+ "code": "5044533357",
+ "group": "조리도구",
+ "rank": 39,
+ "name": "국내생산 파스텔 실리콘 조리도구 뒤집개 집게 국자 도마 이유식 주걱 스푼 큐브 주걱 테이블 식탁 매트 얼음틀",
+ "model": "gemini-3.8-flash",
+ "prompt": "v5",
+ "thinking": "default",
+ "상품정보": [],
+ "거래정보": [],
+ "미분류": [],
+ "usage": {
+  "input_tokens": 1346,
+  "output_tokens": 25,
+  "thinking_tokens": 279
+ },
+ "stop": "FinishReason.STOP",
+ "sec": 37.0
+}
