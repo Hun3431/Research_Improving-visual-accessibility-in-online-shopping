@@ -1,0 +1,85 @@
+# 통일 카테고리 ↔ 플랫폼 카테고리 역매핑
+# ---------------------------------------------------------------
+# 대상 카테고리: 주방용품 (home.kitchen)
+#
+# 수집 단위 = 카테고리 내 "세부 소분류(상품군)". 상품군마다 동일 수량(50)을 수집해
+# 상품군 비율을 균등하게 맞춘다. (한 상품군에 쏠리면 그 상품군 특화 속성이 전체
+# 빈도를 왜곡해 정의서가 틀어지기 때문)
+#
+# 정의서는 상품군별이 아니라 **주방용품 카테고리 공통**으로 도출한다.
+# 상품군 라벨(unified)은 상품군내 커버리지 계산에 사용한다.
+#
+# 수집 방식: 세 플랫폼 모두 검색 기반(11번가도 카테고리 목록은 동일·유사 상품이
+# 몰려 나와 검색으로 통일). platforms 의 ID는 참조용 실측 매핑.
+# 모음전(목록형)은 상세 단계에서 판정해 제외한다.
+#
+# 이전 대상: configs/category_map_bathroom.yaml (욕실용품), category_map_bedding.yaml (침구류)
+
+scope:
+  unified: home.kitchen
+  name: 주방용품
+  platforms:
+    11st:  { id: 1001380,    path: "생활/건강 > 생필품 > 주방용품" }
+    naver: { id: 50000061,   path: "생활/건강 > 주방용품" }
+    ssg:   { id: 6000174585, path: "생활/주방 > 주방용품" }
+
+leaves:
+  - unified: home.kitchen.frypan
+    name: 프라이팬
+    schema_unit: true
+    search_queries: [프라이팬]
+    platforms: { 11st: [1002380] }
+
+  - unified: home.kitchen.pot
+    name: 냄비
+    schema_unit: true
+    search_queries: [냄비]
+    platforms: { 11st: [1002383] }
+
+  - unified: home.kitchen.kettle
+    name: 주전자/티포트
+    schema_unit: true
+    search_queries: [주전자]
+    platforms: { 11st: [1002385] }
+
+  - unified: home.kitchen.tableware
+    name: 식기/그릇
+    schema_unit: true
+    search_queries: [그릇세트]
+    platforms: { 11st: [1002386] }
+
+  - unified: home.kitchen.cutlery
+    name: 수저/커트러리
+    schema_unit: true
+    search_queries: [수저세트]
+    platforms: { 11st: [1002387] }
+
+  - unified: home.kitchen.container
+    name: 밀폐용기
+    schema_unit: true
+    search_queries: [밀폐용기]
+    platforms: { 11st: [1002388] }
+
+  - unified: home.kitchen.tumbler
+    name: 텀블러/보온병
+    schema_unit: true
+    search_queries: [텀블러]
+    platforms: { 11st: [1002390] }
+
+  - unified: home.kitchen.knife
+    name: 칼
+    schema_unit: true
+    search_queries: [주방칼]
+    platforms: { 11st: [1002393] }
+
+  - unified: home.kitchen.cuttingboard
+    name: 도마
+    schema_unit: true
+    search_queries: [도마]
+    platforms: { 11st: [1002397] }
+
+  - unified: home.kitchen.cookingtool
+    name: 조리도구
+    schema_unit: true
+    search_queries: [조리도구]
+    platforms: { 11st: [1002398] }
